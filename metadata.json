@@ -1,0 +1,6 @@
+{
+  "name": "Online Complaint Registration and Management System",
+  "description": "A comprehensive platform to register, manage, and track complaints with role-based access control for Users, Agents, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
